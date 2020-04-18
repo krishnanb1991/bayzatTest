@@ -1,0 +1,9 @@
+{
+    "URL": "https://www.bayzat.com",
+    "login_userName": "test+testcompany@bayzat.com",
+    "login_password": "123456789",
+    "dashboard_URL": "https://www.bayzat.com/enterprise/dashboard/index",
+    "login_URL": "https://www.bayzat.com/enterprise/dashboard/login",
+    "employee_firstName": "Bayzat",
+    "employee_lastName": "Employee"
+}
