@@ -1,9 +1,17 @@
 {
-    "URL": "https://www.bayzat.com",
+    "login_URL": "https://www.bayzat.com/profile/login",
     "login_userName": "test+testcompany@bayzat.com",
     "login_password": "123456789",
     "dashboard_URL": "https://www.bayzat.com/enterprise/dashboard/index",
-    "login_URL": "https://www.bayzat.com/enterprise/dashboard/login",
-    "employee_firstName": "Bayzat",
-    "employee_lastName": "Employee"
+    "logout_URL": "https://www.bayzat.com/enterprise/dashboard/login",
+    "employeeCreationData": [{
+        "employee_firstName": "Bayzat",
+        "employee_lastName": "Employee",
+        "isEmailRequired": false
+
+    }, {
+        "employee_firstName": "Bayzat",
+        "employee_lastName": "Employee",
+        "isEmailRequired": false
+    }]
 }
