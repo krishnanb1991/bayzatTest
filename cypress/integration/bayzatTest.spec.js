@@ -7,6 +7,7 @@ context('Bayzat Test', () => {
         cy.bz_login(testData.login_userName, testData.login_password, testData.dashboard_URL)
     });
     it('.should() - View the Team, Add and Delete Employee', () => {
+        // THis is for testing the commit
         cy.bz_navigateToTeam();
         cy.bz_addNewEmployee(testData.employeeCreationData);
         cy.bz_searchAndDeleteEmployee(testData.employeeCreationData);
